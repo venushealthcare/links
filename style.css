@@ -103,14 +103,21 @@ body {
   background: #e0ffe7;
 }
 
-.icon-threads {
-  background: #e0ffe7;
+.icon-whatsappChannel {
+  background: #c7f0d8; /* softer mint green */
 }
+
+.icon-threads {
+  background: #e3e3e3;
+}
+
+
 
 .link-text {
   flex: 1;
   text-align: center;
   text-transform: capitalize;
 }
+
 
 
