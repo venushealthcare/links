@@ -103,8 +103,13 @@ body {
   background: #e0ffe7;
 }
 
+.icon-threads {
+  background: #f0f0f0;
+}
+
 .link-text {
   flex: 1;
   text-align: center;
   text-transform: capitalize;
 }
+
